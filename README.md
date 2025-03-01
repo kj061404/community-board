@@ -37,7 +37,9 @@ GIF created with ... **Kap**
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+While building the "Best Lawrence Restaurants" web app, the biggest challenge I ran into was definitely getting the CSS styling just right. I wanted the app to look good, which meant I had to spend a lot of time tweaking the layout, making sure the restaurant cards and navigation bar were positioned correctly. There was a lot of trial and error involved in adjusting the spacing, alignment, and sizing to make everything look consistent and appealing. Working with CSS meant dealing with some unexpected issues that popped up along the way, but figuring out those problems was a key part of making the site look as good as it does now.
 
 ## License
 
